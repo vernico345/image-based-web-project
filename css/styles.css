@@ -16,5 +16,12 @@ body {
     background-color: white;
     border-radius: 15px;
     padding: 100px;
-
 }
+
+.bloque2 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 90px 20px 0px 20px;
+}
+
