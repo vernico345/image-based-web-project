@@ -76,3 +76,11 @@ p {
     text-align: left;
     display: block;
  }
+
+ .cajas .bi {
+    color: white;
+    margin-bottom: 10px;
+    border-radius: 1000px;
+    padding: 8px;
+    background-color:rgb(66, 105, 226);
+ }
