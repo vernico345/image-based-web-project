@@ -11,3 +11,10 @@ body {
     padding: 250px 100px;
     align-items: center;
 }
+
+.bloque1 {
+    background-color: white;
+    border-radius: 15px;
+    padding: 100px;
+
+}
